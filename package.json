@@ -1,0 +1,14 @@
+ {
+  "name": "com.orazgylyjovfuteres.datapersistence",
+  "version": "1.0.0",
+  "displayName": "Orazgylyjov DataPersistence",
+  "description": "Save load system for data files with json",
+  "unity": "2019.1",
+  "keywords": [
+    "data persistence",
+    "save load system"
+  ],
+  "author": {
+    "name": "Orazgylyjov Davut"
+  }
+}
